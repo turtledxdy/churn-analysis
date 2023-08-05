@@ -1,6 +1,6 @@
 # Churn Analysis of a bank 
 
-(Data source)[https://docs.google.com/document/d/1aXmR4Uv8OIxVarXNxC8OoBJsc-iBP2LV/edit?usp=drive_link&ouid=115026402983328081349&rtpof=true&sd=true]
+[Data source](https://docs.google.com/document/d/1aXmR4Uv8OIxVarXNxC8OoBJsc-iBP2LV/edit?usp=drive_link&ouid=115026402983328081349&rtpof=true&sd=true)
 
 ## ETL
 -	Remove unused columns
