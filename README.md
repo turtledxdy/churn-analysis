@@ -27,6 +27,11 @@
 -	Gender
 
 ## Findings
+![image](https://github.com/turtledxdy/churn-analysis/assets/137591228/0c74da59-4ffa-4377-9d11-9ae273fad88a)
+![image](https://github.com/turtledxdy/churn-analysis/assets/137591228/38817501-7d05-4dc0-9e54-67d6c3e5a592) 
+![image](https://github.com/turtledxdy/churn-analysis/assets/137591228/1b511462-9481-4e37-b3f6-2531b46e9023)
+![image](https://github.com/turtledxdy/churn-analysis/assets/137591228/31bb4fe9-9240-414f-9b23-786c257d1e30)
+
 It was found that Tenure, HasCrCard and EstimatedSalary has little to no impact on churn rate. Customer with CreditScore lower than 400 has a 100% exist rate. This might be due to policies or legislation that terminates a customer’s relationship if they have poor credit score. Customer with extremely high balance tend to have high churn rate but this might be due to not a lot of people having extremely high balance. Overall, Balance and Churn rate do not seem to have any correlation. 
 
 It is true that active members are less likely to leave the bank. However, it was found that middle age people are more likely to leave the bank. The relationship between Age and Churn Rate is more of a bell shape and not a linear inverse as expected.
